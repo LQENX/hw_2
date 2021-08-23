@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lesson_1_3</string>
+    <string name="article_title">Some text</string>
+    <string name="article_subtitle"><b>LOREM</b></string>
+    <string name="article_text">
+        <i> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec id est eu mauris tristique tincidunt eu quis mi.
+        Nulla quis mi imperdiet, consequat justo vel, commodo diam.
+        Proin blandit leo ligula, sed placerat augue eleifend ac.
+        Mauris porttitor cursus ultrices.
+        Nulla eu mollis lectus, sit amet fringilla velit.
+        Vestibulum fringilla purus in erat aliquet, id laoreet lacus cursus.
+        Vivamus et tellus metus.</i>
+
+        google.com
+    </string>
+
+</resources>
