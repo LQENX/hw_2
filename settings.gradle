@@ -1,0 +1,4 @@
+include ':app:helloandersen'
+include ':app:lesson_1_2'
+include ':app'
+rootProject.name = "Hello Andersen"
