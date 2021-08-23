@@ -1,3 +1,4 @@
+include ':app:lesson_2_1'
 include ':app:lesson_1_4'
 include ':app:lesson_1_3'
 include ':app:helloandersen'
